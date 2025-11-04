@@ -1,3 +1,8 @@
+# Copyright (C) 2024 Pablo Páramo Telle
+# Este archivo es parte del proyecto ComunicELA.
+# ComunicELA es software libre bajo GPL-3.0.
+# Consulte LICENSE para más detalles.
+
 from mediapipe.python.solutions.face_mesh import FaceMesh
 from numpy import linalg as np_linalg, array as np_array, zeros as np_zeros, clip as np_clip
 from cv2 import solvePnP as cv2_solvePnP, Rodrigues as cv2_Rodrigues, decomposeProjectionMatrix as cv2_decomposeProjectionMatrix, \

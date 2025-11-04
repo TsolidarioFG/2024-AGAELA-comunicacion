@@ -1,3 +1,8 @@
+# Copyright (C) 2024 Pablo Páramo Telle
+# Este archivo es parte del proyecto ComunicELA.
+# ComunicELA es software libre bajo GPL-3.0.
+# Consulte LICENSE para más detalles.
+
 from entrenamiento import entrenar_con_kfold
 from pandas import DataFrame, Series, concat, read_excel
 from numpy import mean as np_mean, std as np_std

@@ -1,3 +1,8 @@
+# Copyright (C) 2024 Pablo Páramo Telle
+# Este archivo es parte del proyecto ComunicELA.
+# ComunicELA es software libre bajo GPL-3.0.
+# Consulte LICENSE para más detalles.
+
 from Servicios.Detector import Detector
 from Adapter.Camara import Camara
 from pygame.mixer import init as mixerInit, Sound as mixerSound

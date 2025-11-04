@@ -1,3 +1,8 @@
+# Copyright (C) 2024 Pablo Páramo Telle
+# Este archivo es parte del proyecto ComunicELA.
+# ComunicELA es software libre bajo GPL-3.0.
+# Consulte LICENSE para más detalles.
+
 from os.path import join as os_path_join, abspath as os_path_abspath, dirname as os_path_dirname, exists as os_path_exists
 import sys
 

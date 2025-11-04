@@ -1,3 +1,8 @@
+# Copyright (C) 2024 Pablo Páramo Telle
+# Este archivo es parte del proyecto ComunicELA.
+# ComunicELA es software libre bajo GPL-3.0.
+# Consulte LICENSE para más detalles.
+
 from entrenamiento import entrenar, graficar_perdidas
 from ANNs import ANNs
 import pandas as pd

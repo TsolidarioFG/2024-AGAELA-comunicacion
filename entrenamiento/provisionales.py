@@ -1,3 +1,8 @@
+# Copyright (C) 2024 Pablo Páramo Telle
+# Este archivo es parte del proyecto ComunicELA.
+# ComunicELA es software libre bajo GPL-3.0.
+# Consulte LICENSE para más detalles.
+
 """
 Fichero que contiene funciones para la visualización de datos y modelos, 
 Solamente es utilizado para el desarrollo y la creación de la memoria

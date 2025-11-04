@@ -1,3 +1,8 @@
+# Copyright (C) 2024 Pablo Páramo Telle
+# Este archivo es parte del proyecto ComunicELA.
+# ComunicELA es software libre bajo GPL-3.0.
+# Consulte LICENSE para más detalles.
+
 from kivy.app import App
 from ModelViewPresenter.Modelo import Modelo
 from ModelViewPresenter.Vista import Vista
