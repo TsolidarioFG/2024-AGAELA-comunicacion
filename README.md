@@ -83,6 +83,7 @@ https://www.gnu.org/licenses/gpl-3.0.html
 
 ## Difusión en medios
 - [LinkedIn - Introducing ComunicELA](https://www.linkedin.com/posts/pabloparamotelle_introducing-comunicela-comunicela-activity-7253848414939955202-dNCy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAByHYYkB_E_HDtRnYXUh-XtJ0k-h_0mzfnQ)
+- [Fundación Universidade da Coruña - Carlota Vázquez e Pablo Páramo reciben o Décimo Premio ao mellor TFG aplicado 2023/24 durante a FepeFIC](https://www.fundacion.udc.es/noticia.asp?id=914&idioma=GA)
 - [El Ideal Gallego - Un estudiante de la UDC, entre los tres mejores de España en los Premios CREAIMPACTO 2025](https://www.elidealgallego.com/articulo/a-coruna/estudiante-udc-entre-tres-mejores-espana-premios-creaimpacto-2025-5349103)  
 - [El Ideal Gallego - Pablo Páramo | “La idea es que todos los pacientes con ELA puedan descargar el código, utilizarlo e incluso mejorarlo”](https://www.elidealgallego.com/articulo/a-coruna/pablo-paramo-idea-todos-pacientes-ela-puedan-descargar-codigo-utilizarlo-e-incluso-mejorarlo-5351524)  
 - [UDC - Un estudante da UDC, entre os tres mellores de España nos Premios CREAIMPACTO 2025](https://www.udc.es/novas/Un-estudante-da-UDC-entre-os-tres-mellores-de-Espana-nos-Premios-CREAIMPACTO-2025/?fbclid=IwY2xjawLPagNleHRuA2FlbQIxMQABHmoErZkbHRHc8se3bh5jEwb2b_TUPh_Z2HtHwwYRcrfFSh6WLGRryYHJBKlq_aem_HIMF6ydyiBnKz8q-T7Z2Vw)  
@@ -93,3 +94,4 @@ https://www.gnu.org/licenses/gpl-3.0.html
 - [Onda Cero - Podcast de Ciencia de Onda Cero en colaboración con la UDC](https://amp-ondacero-es.cdn.ampproject.org/c/s/amp.ondacero.es/emisoras/galicia/coruna/mas-de-uno/ciencia/udciencia-01072025_20250704686780d777c93072586743e6.html) 
 - [Código Cero - Os Premios CreaImpacto recoñecen ao estudante Pablo Páramo (UDC) polo proxecto ComunicELA](https://codigocero.com/Os-Premios-CreaImpacto-reconecen-ao-estudante-Pablo-Paramo-UDC-polo-proxecto)  
 - [CODDII - Un estudiante de Informática de la UDC, entre los tres mejores de España en los Premios CREAIMPACTO 2025](https://coddii.org/un-estudiante-de-informatica-la-udc-entre-los-tres-mejores-de-espana-en-los-premios-creaimpacto-2025)  
+- [UDC - Acto de entrega dos Premios de Emprendemento da Universidade da Coruña no marco de UDC TALENTO](https://udc.es/gl/novas/Acto-de-entrega-dos-Premios-de-Emprendemento-da-Universidade-da-Coruna-no-marco-de-UDC-TALENTO/)
